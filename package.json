@@ -4,6 +4,7 @@
   "description": "typescript study",
   "main": "index.js",
   "scripts": {
+    "app": "node ./compiled/Main.js",
     "test": "test"
   },
   "repository": {
